@@ -1,0 +1,19 @@
+data_storage:
+  - type: mysql
+    name: mysql1
+    url: mysql://172.16.80.126:3306/crawler
+    username: geality
+    password: Upa1234!
+  - type: mysql
+    name: mysql2
+    url: mysql://172.16.80.126:3306/crawler2
+    username: geality
+    password: Upa1234!
+  - type: file
+    name: current哈哈_dir
+    file_path: ./
+downloader:
+  - type: proxy
+    name: xun_proxy
+    req_proxy_url: http://xundaili.com
+

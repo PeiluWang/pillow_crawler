@@ -13,12 +13,10 @@ class FileStorage(DataStorage):
 
     def __del__(self):
         for key in self.file_cur:
-            print("delete")
             self.file_cur[key].close()
 
     def save(self, file_name, row):
         file_path = self.file_dir + "/" + file_name
-        print(row+" |||| " +file_path+" "+str(len(self.file_cur)))
         if file_path in self.file_cur:
             fo = self.file_cur[file_path]
         else:
@@ -26,10 +24,8 @@ class FileStorage(DataStorage):
             if file_path in self.file_cur:
                 fo = self.file_cur[file_path]
             else:
-                print(row+ " |||| create")
                 fo = codecs.open(file_path, "w", "utf-8")
                 self.file_cur[file_path] = fo
             FILE_LOCK.release()
-            print(row + " |||| after create: "+str(len(self.file_cur)))
         fo.write(row + "\n")
         fo.flush()

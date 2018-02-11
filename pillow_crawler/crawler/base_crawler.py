@@ -15,7 +15,7 @@ class BaseCrawler(threading.Thread):
             self.name = name
         else:
             self.name = self.__class__.__name__
-        self.scheduler = None
+        self.schedular = None
         self.data_storage_manager = None
         self.downloader_manager = None
 
@@ -25,7 +25,7 @@ class BaseCrawler(threading.Thread):
 
     def init(self, thread_id, scheduler, data_storage_manager, downloader_manager):
         self.thread_id = thread_id
-        self.scheduler = scheduler
+        self.schedular = scheduler
         self.data_storage_manager = data_storage_manager
         self.downloader_manager = downloader_manager
 
@@ -33,7 +33,7 @@ class BaseCrawler(threading.Thread):
         """任务处理线程"""
         while True:
             # 获取任务，如果队列中没有任务会阻塞
-            task = self.scheduler.next_task()
+            task = self.schedular.next_task()
             has_rule_matched = False
             # 查看处理规则匹配
             for rule in self.crawler_rules:
@@ -47,7 +47,22 @@ class BaseCrawler(threading.Thread):
                             downloader = self.downloader_manager.get_downloader("Normal")
                         else:
                             downloader = self.downloader_manager.get_downloader(rule.downloader_name)
-                        response = downloader.get_web(task.url)
+                        try:
+                            response = downloader.get_web(task.url)
+                        except Exception as e:
+                            # 获取页面失败
+                            err_msg = str(e)
+                            if err_msg.startswith("get web error"):
+                                # 任务有问题，失败次数加一，添加入队列
+                                task.fail_count += 1
+                                if task.fail_count >= 3:
+                                    print("task fail too many times, abandon! "+task.url)
+                                else:
+                                    self.schedular.put_task(task)
+                            else:
+                                # 代理有问题，任务重新加入队列
+                                self.schedular.put_task(task)
+                            break
                         rule.process_func(task.url, response)
             if not has_rule_matched:
                 print("no rule mached! abandon!")

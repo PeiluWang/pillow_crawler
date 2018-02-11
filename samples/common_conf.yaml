@@ -14,6 +14,11 @@ data_storage:
     file_dir: ./
 downloader:
   - type: proxy
-    name: xun_proxy
-    req_proxy_url: http://xundaili.com
-
+    name: xdaili_proxy
+    proxy:
+      type: xdaili
+      spider_id: 68455fa7c9094730a9e2053c89f5e811
+      order_no: YZ20182110186EPZH1G
+logger:
+  conf_file: logging.conf
+  

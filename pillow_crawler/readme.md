@@ -11,5 +11,6 @@
 * python 3.6
 
 依赖库
-* yaml: 安装：``` pip install PyYaml```
+* yaml: ``` pip install PyYaml```
 * mysqlclient: ```pip install mysqlclient```
+* requests: ```pip install requests```

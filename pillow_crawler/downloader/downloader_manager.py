@@ -23,7 +23,7 @@ class DownloaderManager:
                 d_name = d_config["name"]
                 if d_type == "proxy":
                     # 创建proxy downloader
-                    downloader = ProxyDownloader()
+                    downloader = ProxyDownloader(d_config)
                     self.downloader_dict[d_name] = downloader
             # 创建Normal downloader
             self.downloader_dict["Normal"] = Downloader()

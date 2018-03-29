@@ -1,0 +1,15 @@
+data_storage:
+  - type: file
+    name: file1
+    file_dir: ./result
+proxy:
+  - type: xdaili
+    name: proxy_daili
+downloader:
+  - type: proxy
+    name: downloader1
+    proxy_name: proxy_daili
+log:
+  log_dir: ./log
+  log_level: DEBUG
+  

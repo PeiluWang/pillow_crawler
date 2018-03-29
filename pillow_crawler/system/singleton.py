@@ -4,6 +4,7 @@ from functools import wraps
 单例模式装饰器
 """
 
+
 def singleton(cls):
     instances = {}
 

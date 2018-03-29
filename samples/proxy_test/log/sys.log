@@ -1,0 +1,646 @@
+2018-03-26 00:08:47 - DEBUG - LoggerManager init done
+2018-03-26 00:08:47 - DEBUG - DataStorageManager init begin
+2018-03-26 00:08:47 - DEBUG - ..FileStorage init begin
+2018-03-26 00:08:47 - DEBUG - ..FileStorage init done
+2018-03-26 00:08:47 - DEBUG - DataStorageManager init done
+2018-03-26 00:08:47 - DEBUG - DownloaderManager init begin
+2018-03-26 00:08:47 - DEBUG - ..ProxyDownloader init begin
+2018-03-26 00:08:47 - DEBUG - >>>load proxies
+2018-03-26 00:08:47 - DEBUG - >>>proxies number: 2
+2018-03-26 00:08:47 - DEBUG - >>>['180.115.3.183:31167', '125.104.243.68:43116']
+2018-03-26 00:08:47 - DEBUG - ..ProxyDownloader init done
+2018-03-26 00:08:47 - DEBUG - DownloaderManager init done
+2018-03-26 00:08:47 - DEBUG - CrawlerManager init done
+2018-03-26 00:08:47 - DEBUG - 
+=========================
+Crawler Start
+crawler number: 1
+task number: 1
+=========================
+2018-03-26 00:08:47 - DEBUG - ProxyTestCrawler0 start
+2018-03-26 00:08:47 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler start
+2018-03-26 00:08:47 - DEBUG - >>init CrawlerMonitor begin
+2018-03-26 00:08:47 - DEBUG - >>>request use proxy: 180.115.3.183:31167
+2018-03-26 00:08:47 - DEBUG - >>init CrawlerMonitor complete
+2018-03-26 00:08:47 - DEBUG - >>crawler monitor start
+2018-03-26 00:08:48 - ERROR - invalid charset, no charset matched
+2018-03-26 00:08:48 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler get web done
+2018-03-26 00:08:48 - INFO - ProxyTestCrawler0 http://139.196.149.203:5001/crawler process done
+2018-03-26 00:08:57 - DEBUG - all crawlers are not busy, close all
+2018-03-26 00:08:57 - DEBUG - ProxyDownloader close
+2018-03-26 00:08:57 - DEBUG - CrawlerMonitor close
+2018-03-26 00:09:00 - DEBUG - ProxyTestCrawler0 close
+2018-03-26 00:20:22 - DEBUG - LoggerManager init done
+2018-03-26 00:20:22 - DEBUG - DataStorageManager init begin
+2018-03-26 00:20:22 - DEBUG - ..FileStorage init begin
+2018-03-26 00:20:22 - DEBUG - ..FileStorage init done
+2018-03-26 00:20:22 - DEBUG - DataStorageManager init done
+2018-03-26 00:20:22 - DEBUG - DownloaderManager init begin
+2018-03-26 00:20:22 - DEBUG - ..ProxyDownloader init begin
+2018-03-26 00:20:22 - DEBUG - >>>load proxies
+2018-03-26 00:20:23 - DEBUG - >>>proxies number: 2
+2018-03-26 00:20:23 - DEBUG - >>>['115.202.74.184:37864', '115.213.233.10:40134']
+2018-03-26 00:20:23 - DEBUG - ..ProxyDownloader init done
+2018-03-26 00:20:23 - DEBUG - DownloaderManager init done
+2018-03-26 00:20:23 - DEBUG - CrawlerManager init done
+2018-03-26 00:20:23 - DEBUG - 
+=========================
+Crawler Start
+crawler number: 1
+task number: 1
+=========================
+2018-03-26 00:20:23 - DEBUG - ProxyTestCrawler0 start
+2018-03-26 00:20:23 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler start
+2018-03-26 00:20:23 - DEBUG - >>init CrawlerMonitor begin
+2018-03-26 00:20:23 - DEBUG - >>init CrawlerMonitor complete
+2018-03-26 00:20:23 - DEBUG - >>crawler monitor start
+2018-03-26 00:20:23 - ERROR - invalid charset, no charset matched
+2018-03-26 00:20:23 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler get web done
+2018-03-26 00:20:23 - INFO - ProxyTestCrawler0 http://139.196.149.203:5001/crawler process done
+2018-03-26 00:20:33 - DEBUG - all crawlers are not busy, close all
+2018-03-26 00:20:33 - DEBUG - ProxyDownloader close
+2018-03-26 00:20:33 - DEBUG - CrawlerMonitor close
+2018-03-26 00:20:35 - DEBUG - ProxyTestCrawler0 close
+2018-03-26 10:41:52 - DEBUG - LoggerManager init done
+2018-03-26 10:41:52 - DEBUG - DataStorageManager init begin
+2018-03-26 10:41:52 - DEBUG - ..FileStorage init begin
+2018-03-26 10:41:52 - DEBUG - ..FileStorage init done
+2018-03-26 10:41:52 - DEBUG - DataStorageManager init done
+2018-03-26 10:41:52 - DEBUG - DownloaderManager init begin
+2018-03-26 10:41:52 - DEBUG - ..ProxyDownloader init begin
+2018-03-26 10:41:52 - DEBUG - >>>load proxies
+2018-03-26 10:41:52 - DEBUG - >>>proxies number: 2
+2018-03-26 10:41:52 - DEBUG - >>>['125.119.52.88:39322', '110.90.184.52:48705']
+2018-03-26 10:41:52 - DEBUG - ..ProxyDownloader init done
+2018-03-26 10:41:52 - DEBUG - DownloaderManager init done
+2018-03-26 10:41:52 - DEBUG - CrawlerManager init done
+2018-03-26 10:41:52 - DEBUG - 
+=========================
+Crawler Start
+crawler number: 1
+task number: 1
+=========================
+2018-03-26 10:41:52 - DEBUG - ProxyTestCrawler0 start
+2018-03-26 10:41:52 - DEBUG - >>init CrawlerMonitor begin
+2018-03-26 10:41:52 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler start
+2018-03-26 10:41:52 - DEBUG - >>init CrawlerMonitor complete
+2018-03-26 10:41:53 - DEBUG - >>crawler monitor start
+2018-03-26 10:41:53 - ERROR - invalid charset, no charset matched
+2018-03-26 10:41:53 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler get web done
+2018-03-26 10:41:53 - INFO - ProxyTestCrawler0 http://139.196.149.203:5001/crawler process done
+2018-03-26 10:42:16 - DEBUG - LoggerManager init done
+2018-03-26 10:42:16 - DEBUG - DataStorageManager init begin
+2018-03-26 10:42:16 - DEBUG - ..FileStorage init begin
+2018-03-26 10:42:16 - DEBUG - ..FileStorage init done
+2018-03-26 10:42:16 - DEBUG - DataStorageManager init done
+2018-03-26 10:42:16 - DEBUG - DownloaderManager init begin
+2018-03-26 10:42:16 - DEBUG - ..ProxyDownloader init begin
+2018-03-26 10:42:16 - DEBUG - >>>load proxies
+2018-03-26 10:42:16 - DEBUG - >>>proxies number: 2
+2018-03-26 10:42:16 - DEBUG - >>>['223.243.53.141:39797', '114.231.67.10:20691']
+2018-03-26 10:42:16 - DEBUG - ..ProxyDownloader init done
+2018-03-26 10:42:16 - DEBUG - DownloaderManager init done
+2018-03-26 10:42:16 - DEBUG - CrawlerManager init done
+2018-03-26 10:42:16 - DEBUG - 
+=========================
+Crawler Start
+crawler number: 1
+task number: 1
+=========================
+2018-03-26 10:42:16 - DEBUG - ProxyTestCrawler0 start
+2018-03-26 10:42:16 - DEBUG - >>init CrawlerMonitor begin
+2018-03-26 10:42:16 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler start
+2018-03-26 10:42:16 - DEBUG - >>init CrawlerMonitor complete
+2018-03-26 10:42:16 - DEBUG - >>>request use proxy: 223.243.53.141:39797
+2018-03-26 10:42:16 - DEBUG - >>crawler monitor start
+2018-03-26 10:42:16 - ERROR - invalid charset, no charset matched
+2018-03-26 10:42:16 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler get web done
+2018-03-26 10:42:16 - INFO - ProxyTestCrawler0 http://139.196.149.203:5001/crawler process done
+2018-03-26 10:59:35 - DEBUG - LoggerManager init done
+2018-03-26 10:59:35 - DEBUG - DataStorageManager init begin
+2018-03-26 10:59:35 - DEBUG - ..FileStorage init begin
+2018-03-26 10:59:35 - DEBUG - ..FileStorage init done
+2018-03-26 10:59:35 - DEBUG - DataStorageManager init done
+2018-03-26 10:59:35 - DEBUG - DownloaderManager init begin
+2018-03-26 10:59:35 - DEBUG - ..ProxyDownloader init begin
+2018-03-26 10:59:35 - DEBUG - >>>load proxies
+2018-03-26 10:59:35 - DEBUG - >>>proxies number: 2
+2018-03-26 10:59:35 - DEBUG - >>>['115.221.123.252:43933', '180.155.135.10:41534']
+2018-03-26 10:59:35 - DEBUG - ..ProxyDownloader init done
+2018-03-26 10:59:35 - DEBUG - DownloaderManager init done
+2018-03-26 10:59:35 - DEBUG - CrawlerManager init done
+2018-03-26 10:59:35 - DEBUG - 
+=========================
+Crawler Start
+crawler number: 1
+task number: 1
+=========================
+2018-03-26 10:59:35 - DEBUG - ProxyTestCrawler0 start
+2018-03-26 10:59:35 - DEBUG - >>init CrawlerMonitor begin
+2018-03-26 10:59:35 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler start
+2018-03-26 10:59:35 - DEBUG - >>>request use proxy: 115.221.123.252:43933
+2018-03-26 10:59:35 - DEBUG - >>init CrawlerMonitor complete
+2018-03-26 10:59:35 - DEBUG - >>crawler monitor start
+2018-03-26 10:59:35 - ERROR - invalid charset, no charset matched
+2018-03-26 10:59:35 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler get web done
+2018-03-26 10:59:35 - INFO - ProxyTestCrawler0 http://139.196.149.203:5001/crawler process done
+2018-03-26 11:05:09 - DEBUG - LoggerManager init done
+2018-03-26 11:05:09 - DEBUG - DataStorageManager init begin
+2018-03-26 11:05:09 - DEBUG - ..FileStorage init begin
+2018-03-26 11:05:09 - DEBUG - ..FileStorage init done
+2018-03-26 11:05:09 - DEBUG - DataStorageManager init done
+2018-03-26 11:05:09 - DEBUG - DownloaderManager init begin
+2018-03-26 11:05:09 - DEBUG - ..ProxyDownloader init begin
+2018-03-26 11:05:09 - DEBUG - >>>load proxies
+2018-03-26 11:05:09 - DEBUG - >>>proxies number: 2
+2018-03-26 11:05:09 - DEBUG - >>>['110.86.102.154:43099', '222.85.39.68:28189']
+2018-03-26 11:05:09 - DEBUG - ..ProxyDownloader init done
+2018-03-26 11:05:09 - DEBUG - DownloaderManager init done
+2018-03-26 11:05:09 - DEBUG - CrawlerManager init done
+2018-03-26 11:05:09 - DEBUG - 
+=========================
+Crawler Start
+crawler number: 1
+task number: 1
+=========================
+2018-03-26 11:05:09 - DEBUG - ProxyTestCrawler0 start
+2018-03-26 11:05:09 - DEBUG - >>init CrawlerMonitor begin
+2018-03-26 11:05:09 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler start
+2018-03-26 11:05:09 - DEBUG - >>init CrawlerMonitor complete
+2018-03-26 11:05:09 - DEBUG - >>>request use proxy: 110.86.102.154:43099
+2018-03-26 11:05:09 - DEBUG - >>crawler monitor start
+2018-03-26 11:05:14 - DEBUG - >>>request fail but proxy is available: 110.86.102.154:43099
+2018-03-26 11:05:14 - ERROR - ProxyTestCrawler0 http://139.196.149.203:5001/crawler get web fail
+2018-03-26 11:05:14 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler start
+2018-03-26 11:05:14 - DEBUG - >>>request use proxy: 222.85.39.68:28189
+2018-03-26 11:05:14 - ERROR - invalid charset, no charset matched
+2018-03-26 11:05:14 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler get web done
+2018-03-26 11:05:14 - INFO - ProxyTestCrawler0 http://139.196.149.203:5001/crawler process done
+2018-03-26 11:05:19 - DEBUG - all crawlers are not busy, close all
+2018-03-26 11:05:19 - DEBUG - ProxyDownloader close
+2018-03-26 11:05:19 - DEBUG - CrawlerMonitor close
+2018-03-26 11:05:20 - DEBUG - ProxyTestCrawler0 close
+2018-03-26 12:51:41 - DEBUG - LoggerManager init done
+2018-03-26 12:51:41 - DEBUG - DataStorageManager init begin
+2018-03-26 12:51:41 - DEBUG - ..FileStorage init begin
+2018-03-26 12:51:41 - DEBUG - ..FileStorage init done
+2018-03-26 12:51:41 - DEBUG - DataStorageManager init done
+2018-03-26 12:52:53 - DEBUG - LoggerManager init done
+2018-03-26 12:52:53 - DEBUG - DataStorageManager init begin
+2018-03-26 12:52:53 - DEBUG - ..FileStorage init begin
+2018-03-26 12:52:53 - DEBUG - ..FileStorage init done
+2018-03-26 12:52:53 - DEBUG - DataStorageManager init done
+2018-03-26 12:52:53 - DEBUG - ProxyHubManager init begin
+2018-03-26 12:52:53 - DEBUG - >>>load proxies
+2018-03-26 12:52:53 - DEBUG - >>>proxies number: 2
+2018-03-26 12:52:53 - DEBUG - >>>['114.231.70.254:33594', '106.110.132.159:47969']
+2018-03-26 12:52:53 - DEBUG - ProxyHubManager init done
+2018-03-26 12:55:16 - DEBUG - LoggerManager init done
+2018-03-26 12:55:16 - DEBUG - DataStorageManager init begin
+2018-03-26 12:55:16 - DEBUG - ..FileStorage init begin
+2018-03-26 12:55:16 - DEBUG - ..FileStorage init done
+2018-03-26 12:55:16 - DEBUG - DataStorageManager init done
+2018-03-26 12:55:16 - DEBUG - ProxyHubManager init begin
+2018-03-26 12:55:16 - DEBUG - >>>XdailiProxyHub init begin
+2018-03-26 12:55:16 - DEBUG - >>>load proxies
+2018-03-26 12:55:16 - DEBUG - >>>proxies number: 2
+2018-03-26 12:55:16 - DEBUG - >>>['222.85.39.48:27863', '183.158.9.62:43559']
+2018-03-26 12:55:16 - DEBUG - >>>XdailiProxyHub init done
+2018-03-26 12:55:16 - DEBUG - ProxyHubManager init done
+2018-03-26 12:55:16 - DEBUG - DownloaderManager init begin
+2018-03-26 12:55:16 - DEBUG - ..ProxyDownloader init begin
+2018-03-26 12:55:16 - DEBUG - ..ProxyDownloader init done
+2018-03-26 12:55:16 - DEBUG - DownloaderManager init done
+2018-03-26 12:55:16 - DEBUG - CrawlerManager init done
+2018-03-26 12:55:16 - DEBUG - 
+=========================
+Crawler Start
+crawler number: 1
+task number: 1
+=========================
+2018-03-26 12:55:16 - DEBUG - ProxyTestCrawler0 start
+2018-03-26 12:55:16 - DEBUG - >>init CrawlerMonitor begin
+2018-03-26 12:55:16 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler start
+2018-03-26 12:55:16 - DEBUG - >>init CrawlerMonitor complete
+2018-03-26 12:55:16 - DEBUG - >>>request use proxy: 222.85.39.48:27863
+2018-03-26 12:55:16 - DEBUG - >>crawler monitor start
+2018-03-26 12:55:24 - DEBUG - delete proxy: 222.85.39.48:27863
+2018-03-26 12:55:24 - DEBUG - remain proxy number: 1
+2018-03-26 12:55:24 - DEBUG - >>>proxy is unavailable: 222.85.39.48:27863
+2018-03-26 12:55:24 - ERROR - ProxyTestCrawler0 http://139.196.149.203:5001/crawler proxy fail
+2018-03-26 12:55:24 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler start
+2018-03-26 12:55:24 - DEBUG - >>>request use proxy: 183.158.9.62:43559
+2018-03-26 12:55:32 - DEBUG - delete proxy: 183.158.9.62:43559
+2018-03-26 12:55:32 - DEBUG - remain proxy number: 0
+2018-03-26 12:55:32 - DEBUG - >>>proxy is unavailable: 183.158.9.62:43559
+2018-03-26 12:55:32 - ERROR - ProxyTestCrawler0 http://139.196.149.203:5001/crawler proxy fail
+2018-03-26 12:55:32 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler start
+2018-03-26 12:55:36 - DEBUG - >>>load proxies
+2018-03-26 12:55:36 - DEBUG - >>>proxies number: 2
+2018-03-26 12:55:36 - DEBUG - >>>['110.189.207.117:41561', '114.105.20.26:31926']
+2018-03-26 12:55:37 - DEBUG - >>>request use proxy: 110.189.207.117:41561
+2018-03-26 12:55:45 - DEBUG - delete proxy: 110.189.207.117:41561
+2018-03-26 12:55:45 - DEBUG - remain proxy number: 1
+2018-03-26 12:55:45 - DEBUG - >>>proxy is unavailable: 110.189.207.117:41561
+2018-03-26 12:55:45 - ERROR - ProxyTestCrawler0 http://139.196.149.203:5001/crawler proxy fail
+2018-03-26 12:55:45 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler start
+2018-03-26 12:55:45 - DEBUG - >>>request use proxy: 114.105.20.26:31926
+2018-03-26 12:56:18 - DEBUG - LoggerManager init done
+2018-03-26 12:56:18 - DEBUG - DataStorageManager init begin
+2018-03-26 12:56:18 - DEBUG - ..FileStorage init begin
+2018-03-26 12:56:18 - DEBUG - ..FileStorage init done
+2018-03-26 12:56:18 - DEBUG - DataStorageManager init done
+2018-03-26 12:56:18 - DEBUG - ProxyHubManager init begin
+2018-03-26 12:56:18 - DEBUG - >>>XdailiProxyHub init begin
+2018-03-26 12:56:18 - DEBUG - >>>load proxies
+2018-03-26 12:56:18 - DEBUG - >>>proxies number: 2
+2018-03-26 12:56:18 - DEBUG - >>>['222.85.5.91:40627', '49.85.7.247:42937']
+2018-03-26 12:56:18 - DEBUG - >>>XdailiProxyHub init done
+2018-03-26 12:56:18 - DEBUG - ProxyHubManager init done
+2018-03-26 12:56:18 - DEBUG - DownloaderManager init begin
+2018-03-26 12:56:18 - DEBUG - ..ProxyDownloader init begin
+2018-03-26 12:56:18 - DEBUG - ..ProxyDownloader init done
+2018-03-26 12:56:18 - DEBUG - DownloaderManager init done
+2018-03-26 12:56:18 - DEBUG - CrawlerManager init done
+2018-03-26 12:56:18 - DEBUG - 
+=========================
+Crawler Start
+crawler number: 1
+task number: 1
+=========================
+2018-03-26 12:56:18 - DEBUG - ProxyTestCrawler0 start
+2018-03-26 12:56:18 - DEBUG - >>init CrawlerMonitor begin
+2018-03-26 12:56:18 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler start
+2018-03-26 12:56:18 - DEBUG - >>init CrawlerMonitor complete
+2018-03-26 12:56:18 - DEBUG - >>>request use proxy: 222.85.5.91:40627
+2018-03-26 12:56:18 - DEBUG - >>crawler monitor start
+2018-03-26 12:56:19 - ERROR - invalid charset, no charset matched
+2018-03-26 12:56:19 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler get web done
+2018-03-26 12:56:19 - INFO - ProxyTestCrawler0 http://139.196.149.203:5001/crawler process done
+2018-03-26 12:56:28 - DEBUG - all crawlers are not busy, close all
+2018-03-26 12:56:28 - DEBUG - ProxyDownloader close
+2018-03-26 12:56:28 - DEBUG - CrawlerMonitor close
+2018-03-26 12:56:31 - DEBUG - ProxyTestCrawler0 close
+2018-03-26 13:00:57 - DEBUG - LoggerManager init done
+2018-03-26 13:00:57 - DEBUG - DataStorageManager init begin
+2018-03-26 13:00:57 - DEBUG - ..FileStorage init begin
+2018-03-26 13:00:57 - DEBUG - ..FileStorage init done
+2018-03-26 13:00:57 - DEBUG - DataStorageManager init done
+2018-03-26 13:00:57 - DEBUG - ProxyHubManager init begin
+2018-03-26 13:00:57 - DEBUG - >>>XdailiProxyHub init begin
+2018-03-26 13:00:57 - DEBUG - >>>load proxies
+2018-03-26 13:00:57 - DEBUG - >>>proxies number: 2
+2018-03-26 13:00:57 - DEBUG - >>>['123.163.19.224:29641', '115.226.156.27:35524']
+2018-03-26 13:00:57 - DEBUG - >>>XdailiProxyHub init done
+2018-03-26 13:00:57 - DEBUG - ProxyHubManager init done
+2018-03-26 13:00:57 - DEBUG - DownloaderManager init begin
+2018-03-26 13:00:57 - DEBUG - ..ProxyDownloader init begin
+2018-03-26 13:00:57 - DEBUG - ..ProxyDownloader init done
+2018-03-26 13:00:57 - DEBUG - DownloaderManager init done
+2018-03-26 13:00:57 - DEBUG - CrawlerManager init done
+2018-03-26 13:00:57 - DEBUG - 
+=========================
+Crawler Start
+crawler number: 1
+task number: 1
+=========================
+2018-03-26 13:00:57 - DEBUG - ProxyTestCrawler0 start
+2018-03-26 13:00:57 - DEBUG - >>init CrawlerMonitor begin
+2018-03-26 13:00:57 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler start
+2018-03-26 13:00:57 - DEBUG - >>init CrawlerMonitor complete
+2018-03-26 13:00:57 - DEBUG - >>>request use proxy: 123.163.19.224:29641
+2018-03-26 13:00:57 - DEBUG - >>crawler monitor start
+2018-03-26 13:00:58 - ERROR - invalid charset, no charset matched
+2018-03-26 13:00:58 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler get web done
+2018-03-26 13:00:58 - INFO - ProxyTestCrawler0 http://139.196.149.203:5001/crawler process done
+2018-03-26 13:01:07 - DEBUG - all crawlers are not busy, close all
+2018-03-26 13:01:10 - DEBUG - ProxyTestCrawler0 close
+2018-03-26 13:02:09 - DEBUG - LoggerManager init done
+2018-03-26 13:02:09 - DEBUG - DataStorageManager init begin
+2018-03-26 13:02:09 - DEBUG - ..FileStorage init begin
+2018-03-26 13:02:09 - DEBUG - ..FileStorage init done
+2018-03-26 13:02:09 - DEBUG - DataStorageManager init done
+2018-03-26 13:02:09 - DEBUG - ProxyHubManager init begin
+2018-03-26 13:02:09 - DEBUG - >>>XdailiProxyHub init begin
+2018-03-26 13:02:09 - DEBUG - >>>load proxies
+2018-03-26 13:02:09 - DEBUG - >>>proxies number: 2
+2018-03-26 13:02:09 - DEBUG - >>>['123.163.160.34:43336', '114.231.154.172:44133']
+2018-03-26 13:02:09 - DEBUG - >>>XdailiProxyHub init done
+2018-03-26 13:02:09 - DEBUG - ProxyHubManager init done
+2018-03-26 13:02:09 - DEBUG - DownloaderManager init begin
+2018-03-26 13:02:09 - DEBUG - ..ProxyDownloader init begin
+2018-03-26 13:02:09 - DEBUG - ..ProxyDownloader init done
+2018-03-26 13:02:09 - DEBUG - DownloaderManager init done
+2018-03-26 13:02:09 - DEBUG - CrawlerManager init done
+2018-03-26 13:02:09 - DEBUG - 
+=========================
+Crawler Start
+crawler number: 1
+task number: 1
+=========================
+2018-03-26 13:02:09 - DEBUG - ProxyTestCrawler0 start
+2018-03-26 13:02:09 - DEBUG - >>init CrawlerMonitor begin
+2018-03-26 13:02:09 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler start
+2018-03-26 13:02:09 - DEBUG - >>init CrawlerMonitor complete
+2018-03-26 13:02:09 - DEBUG - >>>request use proxy: 123.163.160.34:43336
+2018-03-26 13:02:09 - DEBUG - >>crawler monitor start
+2018-03-26 13:02:09 - ERROR - invalid charset, no charset matched
+2018-03-26 13:02:09 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler get web done
+2018-03-26 13:02:09 - INFO - ProxyTestCrawler0 http://139.196.149.203:5001/crawler process done
+2018-03-26 13:02:19 - DEBUG - all crawlers are not busy, close all
+2018-03-26 13:02:19 - DEBUG - proxy_name close
+2018-03-26 13:02:19 - DEBUG - CrawlerMonitor close
+2018-03-26 13:02:21 - DEBUG - ProxyTestCrawler0 close
+2018-03-26 13:03:01 - DEBUG - LoggerManager init done
+2018-03-26 13:03:01 - DEBUG - DataStorageManager init begin
+2018-03-26 13:03:01 - DEBUG - ..FileStorage init begin
+2018-03-26 13:03:01 - DEBUG - ..FileStorage init done
+2018-03-26 13:03:01 - DEBUG - DataStorageManager init done
+2018-03-26 13:03:01 - DEBUG - ProxyHubManager init begin
+2018-03-26 13:03:01 - DEBUG - >>>XdailiProxyHub init begin
+2018-03-26 13:03:01 - DEBUG - >>>load proxies
+2018-03-26 13:03:01 - DEBUG - >>>proxies number: 2
+2018-03-26 13:03:01 - DEBUG - >>>['113.128.29.20:20428', '123.54.195.226:27346']
+2018-03-26 13:03:01 - DEBUG - >>>XdailiProxyHub init done
+2018-03-26 13:03:01 - DEBUG - ProxyHubManager init done
+2018-03-26 13:03:01 - DEBUG - DownloaderManager init begin
+2018-03-26 13:03:01 - DEBUG - ..ProxyDownloader init begin
+2018-03-26 13:03:01 - DEBUG - ..ProxyDownloader init done
+2018-03-26 13:03:01 - DEBUG - DownloaderManager init done
+2018-03-26 13:03:01 - DEBUG - CrawlerManager init done
+2018-03-26 13:03:01 - DEBUG - 
+=========================
+Crawler Start
+crawler number: 1
+task number: 1
+=========================
+2018-03-26 13:03:01 - DEBUG - ProxyTestCrawler0 start
+2018-03-26 13:03:01 - DEBUG - >>init CrawlerMonitor begin
+2018-03-26 13:03:01 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler start
+2018-03-26 13:03:01 - DEBUG - >>init CrawlerMonitor complete
+2018-03-26 13:03:01 - DEBUG - >>>request use proxy: 113.128.29.20:20428
+2018-03-26 13:03:01 - DEBUG - >>crawler monitor start
+2018-03-26 13:03:01 - ERROR - invalid charset, no charset matched
+2018-03-26 13:03:01 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler get web done
+2018-03-26 13:03:01 - INFO - ProxyTestCrawler0 http://139.196.149.203:5001/crawler process done
+2018-03-26 13:03:11 - DEBUG - all crawlers are not busy, close all
+2018-03-26 13:03:11 - DEBUG - Proxy: xdaili1 close
+2018-03-26 13:03:11 - DEBUG - CrawlerMonitor close
+2018-03-26 13:03:13 - DEBUG - ProxyTestCrawler0 close
+2018-03-26 15:14:18 - DEBUG - LoggerManager init done
+2018-03-26 15:14:18 - DEBUG - DataStorageManager init begin
+2018-03-26 15:14:18 - DEBUG - ..FileStorage init begin
+2018-03-26 15:14:18 - DEBUG - ..FileStorage init done
+2018-03-26 15:14:18 - DEBUG - DataStorageManager init done
+2018-03-26 15:14:18 - DEBUG - ProxyHubManager init begin
+2018-03-26 15:14:18 - DEBUG - ..XdailiProxyHub init begin
+2018-03-26 15:14:18 - DEBUG - >>>load proxies
+2018-03-26 15:14:18 - DEBUG - >>>proxies number: 2
+2018-03-26 15:14:18 - DEBUG - >>>['117.69.97.152:35090', '115.202.64.38:30353']
+2018-03-26 15:14:18 - DEBUG - ..XdailiProxyHub init done
+2018-03-26 15:14:18 - DEBUG - ProxyHubManager init done
+2018-03-26 15:14:18 - DEBUG - DownloaderManager init begin
+2018-03-26 15:14:18 - DEBUG - ..ProxyDownloader init begin
+2018-03-26 15:14:18 - DEBUG - ..ProxyDownloader init done
+2018-03-26 15:14:18 - DEBUG - DownloaderManager init done
+2018-03-26 15:14:18 - DEBUG - CrawlerManager init done
+2018-03-26 15:14:18 - DEBUG - 
+=========================
+Crawler Start
+crawler number: 1
+task number: 1
+=========================
+2018-03-26 15:14:18 - DEBUG - ProxyTestCrawler0 start
+2018-03-26 15:14:18 - DEBUG - >>init CrawlerMonitor begin
+2018-03-26 15:14:18 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler start
+2018-03-26 15:14:18 - DEBUG - >>init CrawlerMonitor complete
+2018-03-26 15:14:18 - DEBUG - >>>request use proxy: 117.69.97.152:35090
+2018-03-26 15:14:18 - DEBUG - >>crawler monitor start
+2018-03-26 15:14:19 - ERROR - invalid charset, no charset matched
+2018-03-26 15:14:19 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler get web done
+2018-03-26 15:14:19 - INFO - ProxyTestCrawler0 http://139.196.149.203:5001/crawler process done
+2018-03-26 15:14:28 - DEBUG - all crawlers are not busy, close all
+2018-03-26 15:14:28 - DEBUG - ProxyHub: xdaili1 close
+2018-03-26 15:14:28 - DEBUG - CrawlerMonitor close
+2018-03-26 15:14:31 - DEBUG - ProxyTestCrawler0 close
+2018-03-26 15:15:11 - DEBUG - LoggerManager init done
+2018-03-26 15:15:11 - DEBUG - DataStorageManager init begin
+2018-03-26 15:15:11 - DEBUG - ..FileStorage init begin
+2018-03-26 15:15:11 - DEBUG - ..FileStorage init done
+2018-03-26 15:15:11 - DEBUG - DataStorageManager init done
+2018-03-26 15:15:11 - DEBUG - ProxyHubManager init begin
+2018-03-26 15:15:11 - DEBUG - ..XdailiProxyHub init begin
+2018-03-26 15:15:11 - DEBUG - ....load proxies
+2018-03-26 15:15:11 - DEBUG - ....proxies number: 2
+2018-03-26 15:15:11 - DEBUG - ....['125.104.233.193:39223', '120.39.166.126:35578']
+2018-03-26 15:15:11 - DEBUG - ..XdailiProxyHub init done
+2018-03-26 15:15:11 - DEBUG - ProxyHubManager init done
+2018-03-26 15:15:11 - DEBUG - DownloaderManager init begin
+2018-03-26 15:15:11 - DEBUG - ..ProxyDownloader init begin
+2018-03-26 15:15:11 - DEBUG - ..ProxyDownloader init done
+2018-03-26 15:15:11 - DEBUG - DownloaderManager init done
+2018-03-26 15:15:11 - DEBUG - CrawlerManager init done
+2018-03-26 15:15:11 - DEBUG - 
+=========================
+Crawler Start
+crawler number: 1
+task number: 1
+=========================
+2018-03-26 15:15:11 - DEBUG - ProxyTestCrawler0 start
+2018-03-26 15:15:11 - DEBUG - >>init CrawlerMonitor begin
+2018-03-26 15:15:11 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler start
+2018-03-26 15:15:11 - DEBUG - >>init CrawlerMonitor complete
+2018-03-26 15:15:11 - DEBUG - >>>request use proxy: 125.104.233.193:39223
+2018-03-26 15:15:11 - DEBUG - >>crawler monitor start
+2018-03-26 15:15:14 - ERROR - invalid charset, no charset matched
+2018-03-26 15:15:14 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler get web done
+2018-03-26 15:15:14 - INFO - ProxyTestCrawler0 http://139.196.149.203:5001/crawler process done
+2018-03-26 15:15:21 - DEBUG - all crawlers are not busy, close all
+2018-03-26 15:15:21 - DEBUG - ProxyHub: xdaili1 close
+2018-03-26 15:15:21 - DEBUG - CrawlerMonitor close
+2018-03-26 15:15:23 - DEBUG - ProxyTestCrawler0 close
+2018-03-26 15:21:00 - DEBUG - LoggerManager init done
+2018-03-26 15:21:00 - DEBUG - DataStorageManager init begin
+2018-03-26 15:21:00 - DEBUG - ..FileStorage init begin
+2018-03-26 15:21:00 - DEBUG - ..FileStorage init done
+2018-03-26 15:21:00 - DEBUG - DataStorageManager init done
+2018-03-26 15:21:00 - DEBUG - ProxyHubManager init begin
+2018-03-26 15:29:11 - DEBUG - LoggerManager init done
+2018-03-26 15:29:11 - DEBUG - DataStorageManager init begin
+2018-03-26 15:29:11 - DEBUG - ..FileStorage init begin
+2018-03-26 15:29:11 - DEBUG - ..FileStorage init done
+2018-03-26 15:29:11 - DEBUG - DataStorageManager init done
+2018-03-26 15:29:11 - DEBUG - ProxyHubManager init begin
+2018-03-26 15:29:26 - DEBUG - LoggerManager init done
+2018-03-26 15:29:26 - DEBUG - DataStorageManager init begin
+2018-03-26 15:29:26 - DEBUG - ..FileStorage init begin
+2018-03-26 15:29:26 - DEBUG - ..FileStorage init done
+2018-03-26 15:29:26 - DEBUG - DataStorageManager init done
+2018-03-26 15:29:26 - DEBUG - ProxyHubManager init begin
+2018-03-26 15:29:26 - DEBUG - ..KuaidailiProxyHub init begin
+2018-03-26 15:29:26 - DEBUG - >>>load proxies
+2018-03-26 15:29:26 - DEBUG - >>>proxies number: 2
+2018-03-26 15:29:26 - DEBUG - >>>['121.232.18.79:2137', '111.183.230.108:7671']
+2018-03-26 15:29:26 - DEBUG - ..KuaidailiProxyHub init done
+2018-03-26 15:29:26 - DEBUG - ProxyHubManager init done
+2018-03-26 15:29:26 - DEBUG - DownloaderManager init begin
+2018-03-26 15:29:26 - DEBUG - ..ProxyDownloader init begin
+2018-03-26 15:29:26 - DEBUG - ..ProxyDownloader init done
+2018-03-26 15:29:26 - DEBUG - DownloaderManager init done
+2018-03-26 15:29:26 - DEBUG - CrawlerManager init done
+2018-03-26 15:29:26 - DEBUG - 
+=========================
+Crawler Start
+crawler number: 1
+task number: 1
+=========================
+2018-03-26 15:29:26 - DEBUG - ProxyTestCrawler0 start
+2018-03-26 15:29:26 - DEBUG - >>init CrawlerMonitor begin
+2018-03-26 15:29:26 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler start
+2018-03-26 15:29:26 - DEBUG - >>init CrawlerMonitor complete
+2018-03-26 15:29:26 - DEBUG - >>>request use proxy: 121.232.18.79:2137
+2018-03-26 15:29:26 - DEBUG - >>crawler monitor start
+2018-03-26 15:29:26 - ERROR - invalid charset, no charset matched
+2018-03-26 15:29:26 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler get web done
+2018-03-26 15:29:26 - INFO - ProxyTestCrawler0 http://139.196.149.203:5001/crawler process done
+2018-03-26 15:29:36 - DEBUG - all crawlers are not busy, close all
+2018-03-26 15:29:36 - DEBUG - ProxyHub: kuaidaili1 close
+2018-03-26 15:29:36 - DEBUG - CrawlerMonitor close
+2018-03-26 15:29:38 - DEBUG - ProxyTestCrawler0 close
+2018-03-26 15:29:55 - DEBUG - LoggerManager init done
+2018-03-26 15:29:55 - DEBUG - DataStorageManager init begin
+2018-03-26 15:29:55 - DEBUG - ..FileStorage init begin
+2018-03-26 15:29:55 - DEBUG - ..FileStorage init done
+2018-03-26 15:29:55 - DEBUG - DataStorageManager init done
+2018-03-26 15:29:55 - DEBUG - ProxyHubManager init begin
+2018-03-26 15:29:55 - DEBUG - ..KuaidailiProxyHub init begin
+2018-03-26 15:29:55 - DEBUG - ....load proxies
+2018-03-26 15:29:55 - DEBUG - ....proxies number: 2
+2018-03-26 15:29:55 - DEBUG - ....['116.53.238.151:6591', '106.110.249.210:3456']
+2018-03-26 15:29:55 - DEBUG - ..KuaidailiProxyHub init done
+2018-03-26 15:29:55 - DEBUG - ProxyHubManager init done
+2018-03-26 15:29:55 - DEBUG - DownloaderManager init begin
+2018-03-26 15:29:55 - DEBUG - ..ProxyDownloader init begin
+2018-03-26 15:29:55 - DEBUG - ..ProxyDownloader init done
+2018-03-26 15:29:55 - DEBUG - DownloaderManager init done
+2018-03-26 15:29:55 - DEBUG - CrawlerManager init done
+2018-03-26 15:29:55 - DEBUG - 
+=========================
+Crawler Start
+crawler number: 1
+task number: 1
+=========================
+2018-03-26 15:29:55 - DEBUG - ProxyTestCrawler0 start
+2018-03-26 15:29:55 - DEBUG - >>init CrawlerMonitor begin
+2018-03-26 15:29:55 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler start
+2018-03-26 15:29:55 - DEBUG - >>init CrawlerMonitor complete
+2018-03-26 15:29:55 - DEBUG - >>>request use proxy: 116.53.238.151:6591
+2018-03-26 15:29:55 - DEBUG - >>crawler monitor start
+2018-03-26 15:29:55 - ERROR - invalid charset, no charset matched
+2018-03-26 15:29:55 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler get web done
+2018-03-26 15:29:55 - INFO - ProxyTestCrawler0 http://139.196.149.203:5001/crawler process done
+2018-03-26 15:30:05 - DEBUG - all crawlers are not busy, close all
+2018-03-26 15:30:05 - DEBUG - ProxyHub: kuaidaili1 close
+2018-03-26 15:30:05 - DEBUG - CrawlerMonitor close
+2018-03-26 15:30:07 - DEBUG - ProxyTestCrawler0 close
+2018-03-26 15:31:29 - DEBUG - LoggerManager init done
+2018-03-26 15:31:29 - DEBUG - DataStorageManager init begin
+2018-03-26 15:31:29 - DEBUG - ..FileStorage init begin
+2018-03-26 15:31:29 - DEBUG - ..FileStorage init done
+2018-03-26 15:31:29 - DEBUG - DataStorageManager init done
+2018-03-26 15:31:29 - DEBUG - ProxyHubManager init begin
+2018-03-26 15:31:29 - DEBUG - ..KuaidailiProxyHub init begin
+2018-03-26 15:31:29 - DEBUG - ....load proxies
+2018-03-26 15:31:29 - DEBUG - ....proxies number: 2
+2018-03-26 15:31:29 - DEBUG - ....['117.90.3.191:3217', '115.216.197.237:4889']
+2018-03-26 15:31:29 - DEBUG - ..KuaidailiProxyHub init done
+2018-03-26 15:31:29 - DEBUG - ProxyHubManager init done
+2018-03-26 15:31:29 - DEBUG - DownloaderManager init begin
+2018-03-26 15:31:29 - DEBUG - ..ProxyDownloader init begin
+2018-03-26 15:31:29 - DEBUG - ..ProxyDownloader init done
+2018-03-26 15:31:29 - DEBUG - DownloaderManager init done
+2018-03-26 15:31:29 - DEBUG - CrawlerManager init done
+2018-03-26 15:31:29 - DEBUG - 
+=========================
+Crawler Start
+crawler number: 1
+task number: 1
+=========================
+2018-03-26 15:31:29 - DEBUG - ProxyTestCrawler0 start
+2018-03-26 15:31:29 - DEBUG - >>init CrawlerMonitor begin
+2018-03-26 15:31:29 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler start
+2018-03-26 15:31:29 - DEBUG - >>init CrawlerMonitor complete
+2018-03-26 15:31:29 - DEBUG - >>>request use proxy: 117.90.3.191:3217
+2018-03-26 15:31:29 - DEBUG - >>crawler monitor start
+2018-03-26 15:33:03 - DEBUG - LoggerManager init done
+2018-03-26 15:33:03 - DEBUG - DataStorageManager init begin
+2018-03-26 15:33:03 - DEBUG - ..FileStorage init begin
+2018-03-26 15:33:03 - DEBUG - ..FileStorage init done
+2018-03-26 15:33:03 - DEBUG - DataStorageManager init done
+2018-03-26 15:33:03 - DEBUG - ProxyHubManager init begin
+2018-03-26 15:33:03 - DEBUG - ..KuaidailiProxyHub init begin
+2018-03-26 15:33:03 - DEBUG - ....load proxies
+2018-03-26 15:33:03 - DEBUG - ....proxies number: 2
+2018-03-26 15:33:03 - DEBUG - ....['220.249.149.27:2169', '114.239.121.5:3564']
+2018-03-26 15:33:03 - DEBUG - ..KuaidailiProxyHub init done
+2018-03-26 15:33:03 - DEBUG - ProxyHubManager init done
+2018-03-26 15:33:03 - DEBUG - DownloaderManager init begin
+2018-03-26 15:33:03 - DEBUG - ..ProxyDownloader init begin
+2018-03-26 15:33:03 - DEBUG - ..ProxyDownloader init done
+2018-03-26 15:33:03 - DEBUG - DownloaderManager init done
+2018-03-26 15:33:03 - DEBUG - CrawlerManager init done
+2018-03-26 15:33:03 - DEBUG - 
+=========================
+Crawler Start
+crawler number: 1
+task number: 1
+=========================
+2018-03-26 15:33:03 - DEBUG - ProxyTestCrawler0 start
+2018-03-26 15:33:03 - DEBUG - >>init CrawlerMonitor begin
+2018-03-26 15:33:03 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler start
+2018-03-26 15:33:03 - DEBUG - >>init CrawlerMonitor complete
+2018-03-26 15:33:03 - DEBUG - >>>request use proxy: 220.249.149.27:2169
+2018-03-26 15:33:03 - DEBUG - >>crawler monitor start
+2018-03-26 15:33:03 - ERROR - invalid charset, no charset matched
+2018-03-26 15:33:03 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler get web done
+2018-03-26 15:33:03 - INFO - ProxyTestCrawler0 http://139.196.149.203:5001/crawler process done
+2018-03-26 15:33:13 - DEBUG - all crawlers are not busy, close all
+2018-03-26 15:33:13 - DEBUG - ProxyHub: kuaidaili1 close
+2018-03-26 15:33:13 - DEBUG - CrawlerMonitor close
+2018-03-26 15:33:15 - DEBUG - ProxyTestCrawler0 close
+2018-03-26 15:36:06 - DEBUG - LoggerManager init done
+2018-03-26 15:36:06 - DEBUG - DataStorageManager init begin
+2018-03-26 15:36:06 - DEBUG - ..FileStorage init begin
+2018-03-26 15:36:06 - DEBUG - ..FileStorage init done
+2018-03-26 15:36:06 - DEBUG - DataStorageManager init done
+2018-03-26 15:36:06 - DEBUG - ProxyHubManager init begin
+2018-03-26 15:36:06 - DEBUG - ..KuaidailiProxyHub init begin
+2018-03-26 15:36:06 - DEBUG - ....load proxies
+2018-03-26 15:36:07 - DEBUG - ....proxies number: 2
+2018-03-26 15:36:07 - DEBUG - ....['119.7.199.221:7684', '116.52.133.116:6591']
+2018-03-26 15:36:07 - DEBUG - ..KuaidailiProxyHub init done
+2018-03-26 15:36:07 - DEBUG - ProxyHubManager init done
+2018-03-26 15:36:07 - DEBUG - DownloaderManager init begin
+2018-03-26 15:36:07 - DEBUG - ..ProxyDownloader init begin
+2018-03-26 15:36:07 - DEBUG - ..ProxyDownloader init done
+2018-03-26 15:36:07 - DEBUG - DownloaderManager init done
+2018-03-26 15:36:07 - DEBUG - CrawlerManager init done
+2018-03-26 15:36:07 - DEBUG - 
+=========================
+Crawler Start
+crawler number: 1
+task number: 1
+=========================
+2018-03-26 15:36:07 - DEBUG - ProxyTestCrawler0 start
+2018-03-26 15:36:07 - DEBUG - >>init CrawlerMonitor begin
+2018-03-26 15:36:07 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler start
+2018-03-26 15:36:07 - DEBUG - >>init CrawlerMonitor complete
+2018-03-26 15:36:07 - DEBUG - >>>request use proxy: 119.7.199.221:7684
+2018-03-26 15:36:07 - DEBUG - >>crawler monitor start
+2018-03-26 15:36:07 - ERROR - invalid charset, no charset matched
+2018-03-26 15:36:07 - DEBUG - ProxyTestCrawler0 http://139.196.149.203:5001/crawler get web done
+2018-03-26 15:36:07 - INFO - ProxyTestCrawler0 http://139.196.149.203:5001/crawler process done
+2018-03-26 15:36:17 - DEBUG - all crawlers are not busy, close all
+2018-03-26 15:36:17 - DEBUG - ProxyHub: kuaidaili1 close
+2018-03-26 15:36:17 - DEBUG - CrawlerMonitor close
+2018-03-26 15:36:19 - DEBUG - ProxyTestCrawler0 close

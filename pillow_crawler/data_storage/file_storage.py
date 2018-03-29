@@ -2,14 +2,18 @@
 import codecs
 from pillow_crawler.data_storage.data_storage import *
 from pillow_crawler.system.thread_lock import *
+import logging
 
 
 class FileStorage(DataStorage):
 
     def __init__(self, config):
+        self.sys_log = logging.getLogger("sys")
+        self.sys_log.debug("..FileStorage init begin")
         self.name = config["name"]
         self.file_dir = config["file_dir"]
         self.file_cur = {}
+        self.sys_log.debug("..FileStorage init done")
 
     def __del__(self):
         for key in self.file_cur:

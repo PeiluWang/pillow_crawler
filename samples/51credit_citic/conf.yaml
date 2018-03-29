@@ -1,0 +1,11 @@
+data_storage:
+  - type: file
+    name: current_dir
+    file_dir: ./result
+downloader:
+  - type: normal
+    name: normal
+log:
+  log_dir: ./log
+  log_level: DEBUG
+  

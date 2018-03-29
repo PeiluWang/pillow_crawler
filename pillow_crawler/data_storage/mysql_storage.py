@@ -5,11 +5,14 @@ import re
 import datetime
 from pillow_crawler.system.dict_util import *
 from pillow_crawler.data_storage.data_storage import *
+import logging
 
 
 class MySqlStorage(DataStorage):
 
     def __init__(self, config):
+        self.sys_log = logging.getLogger("sys")
+        self.sys_log.debug("..MySqlStorage init begin")
         try:
             check_key(config, ["name", "url", "username", "password"])
         except Exception as e:
@@ -18,6 +21,10 @@ class MySqlStorage(DataStorage):
         self.__url = config["url"]
         self.__username = config["username"]
         self.__password = config["password"]
+        if "charset" not in config:
+            self.__charset = "utf8" # 默认编码utf8
+        else:
+            self.__charset = config["charset"]
         # 解析url
         match_result = re.match(
             r'mysql://(?P<host>\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}):(?P<port>\d{1,5})/?(?P<dbname>\w*)', self.__url)
@@ -29,6 +36,8 @@ class MySqlStorage(DataStorage):
             raise Exception("解析url失败，url格式不正确："+str(self.__url))
         self.conn = None
         self.cur = None
+        self.open_connection()
+        self.sys_log.debug("..MySqlStorage init done")
 
     def __del__(self):
         if self.conn:
@@ -41,6 +50,7 @@ class MySqlStorage(DataStorage):
             user=self.__username,
             passwd=self.__password,
             db=self.__dbname,
+            charset=self.__charset
         )
         self.cur = self.conn.cursor()
 
@@ -74,8 +84,8 @@ class MySqlStorage(DataStorage):
 
 
 if __name__ == '__main__':
-    config = {"url": "mysql://172.16.80.126:3306/test", "name": "mysql1", "username": "geality", "password": "Upa1234!"}
+    config = {"url": "mysql://172.16.80.126:3306/test", "name": "mysql1", "charset":"utf8", "username": "geality", "password": "Upa1234!"}
     mysqlStorage = MySqlStorage(config)
     mysqlStorage.open_connection()
-    mysqlStorage.save("test", [1, 'col2', datetime.datetime.now()])
+    mysqlStorage.save("test", [1, u'你好', datetime.datetime.now()])
     mysqlStorage.save("test", [2, 'col2', None])

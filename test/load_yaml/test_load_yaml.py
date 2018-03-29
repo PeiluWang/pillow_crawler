@@ -5,7 +5,7 @@ import codecs
 实验yaml
 """
 
-fi=codecs.open("common_conf.yaml","r","utf-8")
+fi=codecs.open("conf.yaml","r","utf-8")
 y = yaml.load(fi)
 print (y)
 

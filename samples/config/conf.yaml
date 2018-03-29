@@ -1,0 +1,25 @@
+data_storage:
+  - type: mysql
+    name: mysql1
+    url: mysql://172.16.80.126:3306/crawler
+    charset: utf8
+    username: geality
+    password: Upa1234!
+  - type: file
+    name: file1
+    file_dir: ./result
+proxy:
+  - type: xdaili
+    name: xdaili1
+    spider_id: 68455fa7c9094730a9e2053c89f5e811
+    order_no: YZ20183231685CN2h6c
+downloader:
+  - type: normal
+    name: normal
+  - type: proxy
+    name: xdaili1_downloader
+    proxy_name: xdaili1
+log:
+  log_dir: ./log
+  log_level: DEBUG
+  

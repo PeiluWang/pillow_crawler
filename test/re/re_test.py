@@ -1,19 +1,17 @@
 # coding=utf-8
 import re
 
-url = "https://www.cnblogs.com/wenweiblog/p/7216102.html"
-url_pattern = re.compile(r"https://www\.(\w+)\.com/(\w+)/.+")
+url = "https://sh.lianjia.com/ershoufang/pg1rs%E4%B8%8A%E6%B5%B7%E5%BA%B7%E5%9F%8E/"
+url_pattern = re.compile(r"https://sh.lianjia.com/ershoufang/pg*")
 result = url_pattern.match(url)
 if result:
-    print(result.group())
-    print(result.group(1))
-    print(result.group(2))
+    print("match")
 else:
     print("no match")
 
 a = list(range(10))
-b = list(range(11,15))
+b = list(range(11, 15))
 print(a)
-print (b)
+print(b)
 a.extend(b)
 print(a)

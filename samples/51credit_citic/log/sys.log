@@ -1,368 +1,91 @@
-2018-03-22 17:14:46 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/ process done
-2018-03-22 17:16:54 - DEBUG - LoggerManager init done
-2018-03-22 17:16:54 - DEBUG - DataStorageManager init begin
-2018-03-22 17:16:54 - DEBUG - ..MySqlStorage init begin
-2018-03-22 17:17:04 - DEBUG - ..MySqlStorage init done
-2018-03-22 17:17:04 - DEBUG - ..FileStorage init begin
-2018-03-22 17:17:04 - DEBUG - ..FileStorage init done
-2018-03-22 17:17:04 - DEBUG - DataStorageManager init done
-2018-03-22 17:17:04 - DEBUG - DownloaderManager init begin
-2018-03-22 17:17:04 - DEBUG - DownloaderManager init done
-2018-03-22 17:17:04 - DEBUG - CrawlerManager init done
-2018-03-22 17:17:04 - DEBUG - 
-==================
-Crawler Start
-crawler number: 3
-task number: 1
-==================
-2018-03-22 17:17:04 - DEBUG - 51CreditCardCitic0 start
-2018-03-22 17:17:04 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/ start
-2018-03-22 17:17:04 - DEBUG - 51CreditCardCitic1 start
-2018-03-22 17:17:04 - DEBUG - 51CreditCardCitic2 start
-2018-03-22 17:17:04 - DEBUG - >>init CrawlerMonitor begin
-2018-03-22 17:17:04 - DEBUG - >>init CrawlerMonitor complete
-2018-03-22 17:17:04 - DEBUG - >>crawler monitor start
-2018-03-22 17:17:05 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/ get web done
-2018-03-22 17:17:05 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/ process done
-2018-03-22 17:17:14 - DEBUG - all crawlers are not busy, close all
-2018-03-22 17:17:14 - DEBUG - CrawlerMonitor close
-2018-03-22 17:17:14 - DEBUG - 51CreditCardCitic0 close
-2018-03-22 17:17:16 - DEBUG - 51CreditCardCitic1 close
-2018-03-22 17:17:16 - DEBUG - 51CreditCardCitic2 close
-2018-03-22 17:21:08 - DEBUG - LoggerManager init done
-2018-03-22 17:21:08 - DEBUG - DataStorageManager init begin
-2018-03-22 17:21:08 - DEBUG - ..MySqlStorage init begin
-2018-03-22 17:21:18 - DEBUG - ..MySqlStorage init done
-2018-03-22 17:21:18 - DEBUG - ..FileStorage init begin
-2018-03-22 17:21:18 - DEBUG - ..FileStorage init done
-2018-03-22 17:21:18 - DEBUG - DataStorageManager init done
-2018-03-22 17:21:18 - DEBUG - DownloaderManager init begin
-2018-03-22 17:21:18 - DEBUG - DownloaderManager init done
-2018-03-22 17:21:18 - DEBUG - CrawlerManager init done
-2018-03-22 17:21:18 - DEBUG - 
-==================
-Crawler Start
-crawler number: 3
-task number: 1
-==================
-2018-03-22 17:21:18 - DEBUG - 51CreditCardCitic0 start
-2018-03-22 17:21:18 - DEBUG - 51CreditCardCitic1 start
-2018-03-22 17:21:18 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/ start
-2018-03-22 17:21:18 - DEBUG - 51CreditCardCitic2 start
-2018-03-22 17:21:18 - DEBUG - >>init CrawlerMonitor begin
-2018-03-22 17:21:18 - DEBUG - >>init CrawlerMonitor complete
-2018-03-22 17:21:18 - DEBUG - >>crawler monitor start
-2018-03-22 17:21:19 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/ get web done
-2018-03-22 17:21:23 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/ process done
-2018-03-22 17:21:23 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_2.shtml start
-2018-03-22 17:21:24 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_2.shtml get web done
-2018-03-22 17:21:27 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_2.shtml process done
-2018-03-22 17:21:27 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_3.shtml start
-2018-03-22 17:21:27 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_3.shtml get web done
-2018-03-22 17:21:30 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_3.shtml process done
-2018-03-22 17:21:30 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_4.shtml start
-2018-03-22 17:21:30 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_4.shtml get web done
-2018-03-22 17:21:34 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_4.shtml process done
-2018-03-22 17:21:34 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_5.shtml start
-2018-03-22 17:21:35 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_5.shtml get web done
-2018-03-22 17:21:39 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_5.shtml process done
-2018-03-22 17:21:39 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_6.shtml start
-2018-03-22 17:21:39 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_6.shtml get web done
-2018-03-22 17:21:42 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_6.shtml process done
-2018-03-22 17:21:42 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_7.shtml start
-2018-03-22 17:21:43 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_7.shtml get web done
-2018-03-22 17:21:46 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_7.shtml process done
-2018-03-22 17:21:46 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_8.shtml start
-2018-03-22 17:21:46 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_8.shtml get web done
-2018-03-22 17:21:49 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_8.shtml process done
-2018-03-22 17:21:49 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_9.shtml start
-2018-03-22 17:21:50 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_9.shtml get web done
-2018-03-22 17:21:53 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_9.shtml process done
-2018-03-22 17:21:53 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_10.shtml start
-2018-03-22 17:21:53 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_10.shtml get web done
-2018-03-22 17:21:56 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_10.shtml process done
-2018-03-22 17:21:56 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_11.shtml start
-2018-03-22 17:21:57 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_11.shtml get web done
-2018-03-22 17:21:59 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_11.shtml process done
-2018-03-22 17:21:59 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_12.shtml start
-2018-03-22 17:21:59 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_12.shtml get web done
-2018-03-22 17:22:02 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_12.shtml process done
-2018-03-22 17:22:02 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_13.shtml start
-2018-03-22 17:22:03 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_13.shtml get web done
-2018-03-22 17:22:05 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_13.shtml process done
-2018-03-22 17:22:05 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_14.shtml start
-2018-03-22 17:22:05 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_14.shtml get web done
-2018-03-22 17:22:08 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_14.shtml process done
-2018-03-22 17:22:08 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_15.shtml start
-2018-03-22 17:22:09 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_15.shtml get web done
-2018-03-22 17:22:12 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_15.shtml process done
-2018-03-22 17:22:12 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_16.shtml start
-2018-03-22 17:22:12 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_16.shtml get web done
-2018-03-22 17:22:12 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_16.shtml process done
-2018-03-22 17:22:18 - DEBUG - all crawlers are not busy, close all
-2018-03-22 17:22:18 - DEBUG - CrawlerMonitor close
-2018-03-22 17:22:21 - DEBUG - 51CreditCardCitic0 close
-2018-03-22 17:22:21 - DEBUG - 51CreditCardCitic2 close
-2018-03-22 17:22:21 - DEBUG - 51CreditCardCitic1 close
-2018-03-25 16:22:13 - DEBUG - LoggerManager init done
-2018-03-25 16:22:13 - DEBUG - DataStorageManager init begin
-2018-03-25 16:22:13 - DEBUG - ..MySqlStorage init begin
-2018-03-25 16:23:08 - DEBUG - LoggerManager init done
-2018-03-25 16:23:08 - DEBUG - DataStorageManager init begin
-2018-03-25 16:23:08 - DEBUG - ..FileStorage init begin
-2018-03-25 16:23:08 - DEBUG - ..FileStorage init done
-2018-03-25 16:23:08 - DEBUG - DataStorageManager init done
-2018-03-25 16:23:08 - DEBUG - DownloaderManager init begin
-2018-03-25 16:23:08 - DEBUG - DownloaderManager init done
-2018-03-25 16:23:08 - DEBUG - CrawlerManager init done
-2018-03-25 16:23:08 - DEBUG - 
+2018-04-02 15:24:26 - DEBUG - LoggerManager init done
+2018-04-02 15:24:26 - DEBUG - DataStorageManager init begin
+2018-04-02 15:24:26 - DEBUG - ..FileStorage init begin
+2018-04-02 15:24:26 - DEBUG - ..FileStorage init done
+2018-04-02 15:24:26 - DEBUG - DataStorageManager init done
+2018-04-02 15:24:26 - DEBUG - ProxyHubManager init begin
+2018-04-02 15:24:26 - DEBUG - no proxy config
+2018-04-02 15:24:26 - DEBUG - ProxyHubManager init done
+2018-04-02 15:24:26 - DEBUG - DownloaderManager init begin
+2018-04-02 15:24:26 - DEBUG - DownloaderManager init done
+2018-04-02 15:24:26 - DEBUG - CrawlerManager init done
+2018-04-02 15:24:26 - DEBUG - 
 =========================
 Crawler Start
 crawler number: 3
 task number: 1
 =========================
-2018-03-25 16:23:08 - DEBUG - 51CreditCardCitic0 start
-2018-03-25 16:23:08 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/ start
-2018-03-25 16:23:08 - DEBUG - 51CreditCardCitic1 start
-2018-03-25 16:23:08 - DEBUG - 51CreditCardCitic2 start
-2018-03-25 16:23:08 - DEBUG - >>init CrawlerMonitor begin
-2018-03-25 16:23:08 - DEBUG - >>init CrawlerMonitor complete
-2018-03-25 16:23:08 - DEBUG - >>crawler monitor start
-2018-03-25 16:23:09 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/ get web done
-2018-03-25 16:23:11 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/ process done
-2018-03-25 16:23:11 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_2.shtml start
-2018-03-25 16:23:11 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_2.shtml get web done
-2018-03-25 16:23:13 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_2.shtml process done
-2018-03-25 16:23:13 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_3.shtml start
-2018-03-25 16:23:14 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_3.shtml get web done
-2018-03-25 16:23:17 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_3.shtml process done
-2018-03-25 16:23:17 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_4.shtml start
-2018-03-25 16:23:17 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_4.shtml get web done
-2018-03-25 16:23:19 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_4.shtml process done
-2018-03-25 16:23:19 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_5.shtml start
-2018-03-25 16:23:20 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_5.shtml get web done
-2018-03-25 16:23:22 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_5.shtml process done
-2018-03-25 16:23:22 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_6.shtml start
-2018-03-25 16:23:22 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_6.shtml get web done
-2018-03-25 16:23:24 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_6.shtml process done
-2018-03-25 16:23:24 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_7.shtml start
-2018-03-25 16:23:25 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_7.shtml get web done
-2018-03-25 16:23:29 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_7.shtml process done
-2018-03-25 16:23:29 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_8.shtml start
-2018-03-25 16:23:29 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_8.shtml get web done
-2018-03-25 16:23:31 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_8.shtml process done
-2018-03-25 16:23:31 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_9.shtml start
-2018-03-25 16:23:32 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_9.shtml get web done
-2018-03-25 16:23:36 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_9.shtml process done
-2018-03-25 16:23:36 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_10.shtml start
-2018-03-25 16:23:36 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_10.shtml get web done
-2018-03-25 16:23:39 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_10.shtml process done
-2018-03-25 16:23:39 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_11.shtml start
-2018-03-25 16:23:40 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_11.shtml get web done
-2018-03-25 16:23:43 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_11.shtml process done
-2018-03-25 16:23:43 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_12.shtml start
-2018-03-25 16:23:43 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_12.shtml get web done
-2018-03-25 16:23:46 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_12.shtml process done
-2018-03-25 16:23:46 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_13.shtml start
-2018-03-25 16:23:46 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_13.shtml get web done
-2018-03-25 16:23:51 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_13.shtml process done
-2018-03-25 16:23:51 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_14.shtml start
-2018-03-25 16:23:51 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_14.shtml get web done
-2018-03-25 16:23:54 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_14.shtml process done
-2018-03-25 16:23:54 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_15.shtml start
-2018-03-25 16:23:54 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_15.shtml get web done
-2018-03-25 16:23:56 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_15.shtml process done
-2018-03-25 16:23:56 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_16.shtml start
-2018-03-25 16:23:57 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_16.shtml get web done
-2018-03-25 16:23:57 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_16.shtml process done
-2018-03-25 16:23:58 - DEBUG - all crawlers are not busy, close all
-2018-03-25 16:23:58 - DEBUG - CrawlerMonitor close
-2018-03-25 16:23:59 - DEBUG - 51CreditCardCitic1 close
-2018-03-25 16:23:59 - DEBUG - 51CreditCardCitic2 close
-2018-03-25 16:24:00 - DEBUG - 51CreditCardCitic0 close
-2018-03-26 09:32:47 - DEBUG - LoggerManager init done
-2018-03-26 09:32:47 - DEBUG - DataStorageManager init begin
-2018-03-26 09:32:47 - DEBUG - ..FileStorage init begin
-2018-03-26 09:32:47 - DEBUG - ..FileStorage init done
-2018-03-26 09:32:47 - DEBUG - DataStorageManager init done
-2018-03-26 09:32:47 - DEBUG - DownloaderManager init begin
-2018-03-26 09:32:47 - DEBUG - DownloaderManager init done
-2018-03-26 09:32:47 - DEBUG - CrawlerManager init done
-2018-03-26 09:32:47 - DEBUG - 
-=========================
-Crawler Start
-crawler number: 3
-task number: 1
-=========================
-2018-03-26 09:32:47 - DEBUG - 51CreditCardCitic0 start
-2018-03-26 09:32:47 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/ start
-2018-03-26 09:32:47 - DEBUG - 51CreditCardCitic1 start
-2018-03-26 09:32:47 - DEBUG - 51CreditCardCitic2 start
-2018-03-26 09:32:47 - DEBUG - >>init CrawlerMonitor begin
-2018-03-26 09:32:47 - DEBUG - >>init CrawlerMonitor complete
-2018-03-26 09:32:47 - DEBUG - >>crawler monitor start
-2018-03-26 09:32:48 - ERROR - invalid charset, no charset matched
-2018-03-26 09:32:48 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/ get web done
-2018-03-26 09:32:51 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/ process done
-2018-03-26 09:32:51 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_2.shtml start
-2018-03-26 09:32:51 - ERROR - invalid charset, no charset matched
-2018-03-26 09:32:51 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_2.shtml get web done
-2018-03-26 09:32:54 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_2.shtml process done
-2018-03-26 09:32:54 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_3.shtml start
-2018-03-26 09:32:55 - ERROR - invalid charset, no charset matched
-2018-03-26 09:32:55 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_3.shtml get web done
-2018-03-26 09:32:59 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_3.shtml process done
-2018-03-26 09:32:59 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_4.shtml start
-2018-03-26 09:32:59 - ERROR - invalid charset, no charset matched
-2018-03-26 09:32:59 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_4.shtml get web done
-2018-03-26 09:33:03 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_4.shtml process done
-2018-03-26 09:33:03 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_5.shtml start
-2018-03-26 09:33:04 - ERROR - invalid charset, no charset matched
-2018-03-26 09:33:04 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_5.shtml get web done
-2018-03-26 09:35:07 - DEBUG - LoggerManager init done
-2018-03-26 09:35:07 - DEBUG - DataStorageManager init begin
-2018-03-26 09:35:07 - DEBUG - ..FileStorage init begin
-2018-03-26 09:35:07 - DEBUG - ..FileStorage init done
-2018-03-26 09:35:07 - DEBUG - DataStorageManager init done
-2018-03-26 09:35:07 - DEBUG - DownloaderManager init begin
-2018-03-26 09:35:07 - DEBUG - DownloaderManager init done
-2018-03-26 09:35:07 - DEBUG - CrawlerManager init done
-2018-03-26 09:35:07 - DEBUG - 
-=========================
-Crawler Start
-crawler number: 3
-task number: 1
-=========================
-2018-03-26 09:35:07 - DEBUG - 51CreditCardCitic0 start
-2018-03-26 09:35:07 - DEBUG - 51CreditCardCitic1 start
-2018-03-26 09:35:07 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/ start
-2018-03-26 09:35:07 - DEBUG - 51CreditCardCitic2 start
-2018-03-26 09:35:07 - DEBUG - >>init CrawlerMonitor begin
-2018-03-26 09:35:07 - DEBUG - >>init CrawlerMonitor complete
-2018-03-26 09:35:07 - DEBUG - >>crawler monitor start
-2018-03-26 09:35:08 - ERROR - invalid charset, no charset matched
-2018-03-26 09:35:08 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/ get web done
-2018-03-26 09:35:10 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/ process done
-2018-03-26 09:35:17 - DEBUG - all crawlers are not busy, close all
-2018-03-26 09:35:17 - DEBUG - CrawlerMonitor close
-2018-03-26 09:35:19 - DEBUG - 51CreditCardCitic0 close
-2018-03-26 09:35:19 - DEBUG - 51CreditCardCitic1 close
-2018-03-26 09:35:19 - DEBUG - 51CreditCardCitic2 close
-2018-03-26 09:37:13 - DEBUG - LoggerManager init done
-2018-03-26 09:37:13 - DEBUG - DataStorageManager init begin
-2018-03-26 09:37:13 - DEBUG - ..FileStorage init begin
-2018-03-26 09:37:13 - DEBUG - ..FileStorage init done
-2018-03-26 09:37:13 - DEBUG - DataStorageManager init done
-2018-03-26 09:37:13 - DEBUG - DownloaderManager init begin
-2018-03-26 09:37:13 - DEBUG - DownloaderManager init done
-2018-03-26 09:37:13 - DEBUG - CrawlerManager init done
-2018-03-26 09:37:13 - DEBUG - 
-=========================
-Crawler Start
-crawler number: 3
-task number: 1
-=========================
-2018-03-26 09:37:13 - DEBUG - 51CreditCardCitic0 start
-2018-03-26 09:37:13 - DEBUG - 51CreditCardCitic1 start
-2018-03-26 09:37:13 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/ start
-2018-03-26 09:37:13 - DEBUG - 51CreditCardCitic2 start
-2018-03-26 09:37:13 - DEBUG - >>init CrawlerMonitor begin
-2018-03-26 09:37:13 - DEBUG - >>init CrawlerMonitor complete
-2018-03-26 09:37:13 - DEBUG - >>crawler monitor start
-2018-03-26 09:37:14 - DEBUG - charset: utf-8
-2018-03-26 09:37:14 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/ get web done
-2018-03-26 09:37:18 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/ process done
-2018-03-26 09:37:23 - DEBUG - all crawlers are not busy, close all
-2018-03-26 09:37:23 - DEBUG - CrawlerMonitor close
-2018-03-26 09:37:24 - DEBUG - 51CreditCardCitic0 close
-2018-03-26 09:37:25 - DEBUG - 51CreditCardCitic1 close
-2018-03-26 09:37:25 - DEBUG - 51CreditCardCitic2 close
-2018-03-26 09:38:01 - DEBUG - LoggerManager init done
-2018-03-26 09:38:01 - DEBUG - DataStorageManager init begin
-2018-03-26 09:38:01 - DEBUG - ..FileStorage init begin
-2018-03-26 09:38:01 - DEBUG - ..FileStorage init done
-2018-03-26 09:38:01 - DEBUG - DataStorageManager init done
-2018-03-26 09:38:01 - DEBUG - DownloaderManager init begin
-2018-03-26 09:38:01 - DEBUG - DownloaderManager init done
-2018-03-26 09:38:01 - DEBUG - CrawlerManager init done
-2018-03-26 09:38:01 - DEBUG - 
-=========================
-Crawler Start
-crawler number: 3
-task number: 1
-=========================
-2018-03-26 09:38:01 - DEBUG - 51CreditCardCitic0 start
-2018-03-26 09:38:01 - DEBUG - 51CreditCardCitic1 start
-2018-03-26 09:38:01 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/ start
-2018-03-26 09:38:01 - DEBUG - 51CreditCardCitic2 start
-2018-03-26 09:38:01 - DEBUG - >>init CrawlerMonitor begin
-2018-03-26 09:38:01 - DEBUG - >>init CrawlerMonitor complete
-2018-03-26 09:38:01 - DEBUG - >>crawler monitor start
-2018-03-26 09:38:02 - DEBUG - charset: utf-8
-2018-03-26 09:38:02 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/ get web done
-2018-03-26 09:38:06 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/ process done
-2018-03-26 09:38:06 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_2.shtml start
-2018-03-26 09:38:06 - DEBUG - charset: utf-8
-2018-03-26 09:38:06 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_2.shtml get web done
-2018-03-26 09:38:08 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_2.shtml process done
-2018-03-26 09:38:08 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_3.shtml start
-2018-03-26 09:38:09 - DEBUG - charset: utf-8
-2018-03-26 09:38:09 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_3.shtml get web done
-2018-03-26 09:38:13 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_3.shtml process done
-2018-03-26 09:38:13 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_4.shtml start
-2018-03-26 09:38:13 - DEBUG - charset: utf-8
-2018-03-26 09:38:13 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_4.shtml get web done
-2018-03-26 09:38:16 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_4.shtml process done
-2018-03-26 09:38:16 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_5.shtml start
-2018-03-26 09:38:17 - DEBUG - charset: utf-8
-2018-03-26 09:38:17 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_5.shtml get web done
-2018-03-26 09:38:19 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_5.shtml process done
-2018-03-26 09:38:19 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_6.shtml start
-2018-03-26 09:38:19 - DEBUG - charset: utf-8
-2018-03-26 09:38:19 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_6.shtml get web done
-2018-03-26 09:38:21 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_6.shtml process done
-2018-03-26 09:38:21 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_7.shtml start
-2018-03-26 09:38:22 - DEBUG - charset: utf-8
-2018-03-26 09:38:22 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_7.shtml get web done
-2018-03-26 09:38:26 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_7.shtml process done
-2018-03-26 09:38:26 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_8.shtml start
-2018-03-26 09:38:26 - DEBUG - charset: utf-8
-2018-03-26 09:38:26 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_8.shtml get web done
-2018-03-26 09:38:29 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_8.shtml process done
-2018-03-26 09:38:29 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_9.shtml start
-2018-03-26 09:38:30 - DEBUG - charset: utf-8
-2018-03-26 09:38:30 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_9.shtml get web done
-2018-03-26 09:38:32 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_9.shtml process done
-2018-03-26 09:38:32 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_10.shtml start
-2018-03-26 09:38:32 - DEBUG - charset: utf-8
-2018-03-26 09:38:32 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_10.shtml get web done
-2018-03-26 09:38:35 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_10.shtml process done
-2018-03-26 09:38:35 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_11.shtml start
-2018-03-26 09:38:36 - DEBUG - charset: utf-8
-2018-03-26 09:38:36 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_11.shtml get web done
-2018-03-26 09:38:39 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_11.shtml process done
-2018-03-26 09:38:39 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_12.shtml start
-2018-03-26 09:38:39 - DEBUG - charset: utf-8
-2018-03-26 09:38:39 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_12.shtml get web done
-2018-03-26 09:38:41 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_12.shtml process done
-2018-03-26 09:38:41 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_13.shtml start
-2018-03-26 09:38:42 - DEBUG - charset: utf-8
-2018-03-26 09:38:42 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_13.shtml get web done
-2018-03-26 09:38:45 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_13.shtml process done
-2018-03-26 09:38:45 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_14.shtml start
-2018-03-26 09:38:45 - DEBUG - charset: utf-8
-2018-03-26 09:38:45 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_14.shtml get web done
-2018-03-26 09:38:47 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_14.shtml process done
-2018-03-26 09:38:47 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_15.shtml start
-2018-03-26 09:38:47 - DEBUG - charset: utf-8
-2018-03-26 09:38:47 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_15.shtml get web done
-2018-03-26 09:38:50 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_15.shtml process done
-2018-03-26 09:38:50 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_16.shtml start
-2018-03-26 09:38:50 - DEBUG - charset: utf-8
-2018-03-26 09:38:50 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_16.shtml get web done
-2018-03-26 09:38:50 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_16.shtml process done
-2018-03-26 09:38:51 - DEBUG - all crawlers are not busy, close all
-2018-03-26 09:38:51 - DEBUG - CrawlerMonitor close
-2018-03-26 09:38:52 - DEBUG - 51CreditCardCitic1 close
-2018-03-26 09:38:52 - DEBUG - 51CreditCardCitic2 close
-2018-03-26 09:38:53 - DEBUG - 51CreditCardCitic0 close
+2018-04-02 15:24:26 - DEBUG - 51CreditCardCitic0 start
+2018-04-02 15:24:26 - DEBUG - 51CreditCardCitic1 start
+2018-04-02 15:24:26 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/ start
+2018-04-02 15:24:26 - DEBUG - 51CreditCardCitic2 start
+2018-04-02 15:24:26 - DEBUG - >>init CrawlerMonitor begin
+2018-04-02 15:24:26 - DEBUG - >>init CrawlerMonitor complete
+2018-04-02 15:24:26 - DEBUG - >>crawler monitor start
+2018-04-02 15:24:26 - DEBUG - charset: utf-8
+2018-04-02 15:24:26 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/ get web done
+2018-04-02 15:24:30 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/ process done
+2018-04-02 15:24:30 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_2.shtml start
+2018-04-02 15:24:31 - DEBUG - charset: utf-8
+2018-04-02 15:24:31 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_2.shtml get web done
+2018-04-02 15:24:35 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_2.shtml process done
+2018-04-02 15:24:35 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_3.shtml start
+2018-04-02 15:24:35 - DEBUG - charset: utf-8
+2018-04-02 15:24:35 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_3.shtml get web done
+2018-04-02 15:24:37 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_3.shtml process done
+2018-04-02 15:24:37 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_4.shtml start
+2018-04-02 15:24:38 - DEBUG - charset: utf-8
+2018-04-02 15:24:38 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_4.shtml get web done
+2018-04-02 15:24:40 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_4.shtml process done
+2018-04-02 15:24:40 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_5.shtml start
+2018-04-02 15:24:40 - DEBUG - charset: utf-8
+2018-04-02 15:24:40 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_5.shtml get web done
+2018-04-02 15:24:42 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_5.shtml process done
+2018-04-02 15:24:42 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_6.shtml start
+2018-04-02 15:24:43 - DEBUG - charset: utf-8
+2018-04-02 15:24:43 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_6.shtml get web done
+2018-04-02 15:24:45 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_6.shtml process done
+2018-04-02 15:24:45 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_7.shtml start
+2018-04-02 15:24:45 - DEBUG - charset: utf-8
+2018-04-02 15:24:45 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_7.shtml get web done
+2018-04-02 15:24:47 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_7.shtml process done
+2018-04-02 15:24:47 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_8.shtml start
+2018-04-02 15:24:48 - DEBUG - charset: utf-8
+2018-04-02 15:24:48 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_8.shtml get web done
+2018-04-02 15:24:52 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_8.shtml process done
+2018-04-02 15:24:52 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_9.shtml start
+2018-04-02 15:24:52 - DEBUG - charset: utf-8
+2018-04-02 15:24:52 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_9.shtml get web done
+2018-04-02 15:24:54 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_9.shtml process done
+2018-04-02 15:24:54 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_10.shtml start
+2018-04-02 15:24:55 - DEBUG - charset: utf-8
+2018-04-02 15:24:55 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_10.shtml get web done
+2018-04-02 15:24:57 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_10.shtml process done
+2018-04-02 15:24:57 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_11.shtml start
+2018-04-02 15:24:57 - DEBUG - charset: utf-8
+2018-04-02 15:24:57 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_11.shtml get web done
+2018-04-02 15:25:00 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_11.shtml process done
+2018-04-02 15:25:00 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_12.shtml start
+2018-04-02 15:25:01 - DEBUG - charset: utf-8
+2018-04-02 15:25:01 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_12.shtml get web done
+2018-04-02 15:25:03 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_12.shtml process done
+2018-04-02 15:25:03 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_13.shtml start
+2018-04-02 15:25:03 - DEBUG - charset: utf-8
+2018-04-02 15:25:03 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_13.shtml get web done
+2018-04-02 15:25:07 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_13.shtml process done
+2018-04-02 15:25:07 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_14.shtml start
+2018-04-02 15:25:08 - DEBUG - charset: utf-8
+2018-04-02 15:25:08 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_14.shtml get web done
+2018-04-02 15:25:11 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_14.shtml process done
+2018-04-02 15:25:11 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_15.shtml start
+2018-04-02 15:25:11 - DEBUG - charset: utf-8
+2018-04-02 15:25:11 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_15.shtml get web done
+2018-04-02 15:25:14 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_15.shtml process done
+2018-04-02 15:25:14 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_16.shtml start
+2018-04-02 15:25:15 - DEBUG - charset: utf-8
+2018-04-02 15:25:15 - DEBUG - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_16.shtml get web done
+2018-04-02 15:25:15 - INFO - 51CreditCardCitic0 https://kaku.51credit.com/citic/index_16.shtml process done
+2018-04-02 15:25:16 - DEBUG - all crawlers are not busy, close all
+2018-04-02 15:25:17 - DEBUG - 51CreditCardCitic1 close
+2018-04-02 15:25:17 - DEBUG - 51CreditCardCitic2 close
+2018-04-02 15:25:18 - DEBUG - 51CreditCardCitic0 close

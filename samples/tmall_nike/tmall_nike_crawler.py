@@ -10,11 +10,12 @@ class TmallNikeCrawler(BaseCrawler):
     """
     天猫耐克品牌商店爬取
     """
+
     def __init__(self):
         BaseCrawler.__init__(self)
         self.crawler_rules = [
             CrawlerRule(
-                url_pattern = r"https://list\.tmall\.com/search_product\.htm*",
+                url_pattern=r"https://list\.tmall\.com/search_product\.htm*",
                 process_func=self.process_search_product,
                 # downloader_name="xdaili_proxy"
             ),
@@ -104,6 +105,7 @@ def main():
                              "cat=2&from=_1_&is=p")
     crawler_manager.start()
     crawler_manager.join()
+
 
 if __name__ == '__main__':
     main()
